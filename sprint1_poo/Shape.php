@@ -1,6 +1,5 @@
 <?php 
 abstract class Poligono {
-    protected $lados;
     protected $base;
     protected $altura;
 
